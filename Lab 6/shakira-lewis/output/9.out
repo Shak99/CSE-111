@@ -1,0 +1,9 @@
+brown blush dark white mint
+deep coral dodger green peach
+dodger papaya goldenrod antique brown
+ivory steel plum gainsboro sienna
+lavender blush rosy beige sky
+papaya khaki dodger honeydew midnight
+purple spring turquoise goldenrod grey
+seashell ghost cyan burlywood thistle
+tan lemon goldenrod firebrick rose
