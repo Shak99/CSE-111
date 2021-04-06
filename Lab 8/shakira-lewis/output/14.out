@@ -1,0 +1,5 @@
+QUERY PLAN
+|--SCAN TABLE nation
+|--SEARCH TABLE customer USING AUTOMATIC COVERING INDEX (c_nationkey=?)
+`--SEARCH TABLE orders USING AUTOMATIC PARTIAL COVERING INDEX (o_orderpriority=? AND o_custkey=?)
+35
